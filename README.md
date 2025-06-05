@@ -14,9 +14,9 @@ This project performs sentiment analysis using four deep learning models — BER
 NLP-Sentiment-Model-Comparison/
 ├── NLPComparativeAnalysis.ipynb 		# Main notebook with training and evaluation
 ├── NLP Comparative Analysis.pdf 		# Project methodology and insights
-├── requirements.txt 					# Python dependencies
-├── README.md 							# Project overview
-└── .gitignore 						    # Files to exclude from Git tracking
+├── requirements.txt                    # Python dependencies
+├── README.md                           # Project overview
+└── .gitignore                          # Files to exclude from Git tracking
 ```
 
 ---
